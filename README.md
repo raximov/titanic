@@ -29,28 +29,24 @@ seaborn
 Loyihani klon qiling:
 
 bash
-Копировать
-Редактировать
+ 
 git clone https://github.com/raximov/titanic.git
 cd titanic
 Virtual muhit yarating (ixtiyoriy):
 
 bash
-Копировать
-Редактировать
+
 python3 -m venv venv
 source venv/bin/activate
 Kerakli kutubxonalarni o‘rnating:
 
 bash
-Копировать
-Редактировать
+
 pip install -r requirements.txt
 Jupyter notebook’ni ishga tushiring:
 
 bash
-Копировать
-Редактировать
+
 jupyter notebook
 📊 Visualizatsiyalardan namunalar
 Omon qolganlar soni (Survived)
